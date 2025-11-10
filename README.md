@@ -1,4 +1,4 @@
-# terraform-azurerm-sa
+# terraform-azurerm-storage-account
 
 List account subscriptions:
 ```bash
